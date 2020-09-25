@@ -1,17 +1,4 @@
 
-
-<div align="center">
-
-![](https://upload-images.jianshu.io/upload_images/12890819-3a7d6ee6564f9407.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-</div>
-
-> **读一本好书，就是在和高尚的人谈话**。 ——歌德
-
-> **喜欢读书的人在死之前，活过 1000 次，不读书的人只活过一次**。 -- 乔治 R.R. 马丁
-
-**不知道这个项目能存在到什么时候，可能会被和谐，所以要下载的要赶紧！**
-
 ## 简介
 
 技术类精华电子书整理，并且附带下载链接，包括 前端、后端、数据结构与算法、计算机基础、设计模式等书籍。
@@ -97,55 +84,4 @@
 ### 其他好书
 
 ![](https://upload-images.jianshu.io/upload_images/12890819-75f3398cee006bbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-## 下载
-
-
-```
-git clone https://github.com/biaochenxuying/awesome-books.git
-```
-
-**整个项目大小为 **4GB** ，多达 150+ 本精华电子书，下载请谨慎！**
-
-我上传时都用了几天的时间，还经常断了，要重新上传，所以下载本项目的内容是很慢的。
-
-建议一本本的下载，或者先保存到百度网盘，再下载。
-
-关注公众号：**全栈修炼**，回复 **电子书** 即可获得全部的电子书的下载链接。
-
-网盘的电子书也是来自别人的整理，我这里提供下载的链接。
-
-**不知道这个项目能存在到什么时候，所以要下载的要赶紧！**
-
-**共克时艰！**
-
-
-## 免责声明
-
-书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接。
-
-如有侵权，马上联系我，我立马删除对应对应电子书及百度网盘的链接。
-
-
-## 撩我
-
-邮箱：**2993806084#qq.com** ，将 **#** 号换成 **@** 即可。
-
-微信：**CB834301747**，加我时的验证申请，请输入暗号哦，暗号是：**夜尽天明**，（非诚勿扰）。
-
-**推荐阅读**
-
-[1. 学习资源分享 - Vue、React、Node、MongoDB、 全栈打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
-
-[​2. 重磅：硬核前端面试开源项目汇总（进大厂必备）](https://mp.weixin.qq.com/s/BTiREli8wXBiwOEDGBiIxg)
-
-
-<div align="center">
-
-![全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-8a7bdbd67a49d519.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-</div>
-
-
 
